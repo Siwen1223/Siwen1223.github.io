@@ -52,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.6*, Outstanding Graduate, Central South University.
 
 # 📖 Educations
-- *2022.09 - 2025.03 (expected)*, **M.Eng.**, School of Electronic Information and Electrical Engineering, [Shanghai Jiao Tong University](https://en.csu.edu.cn/), Shanghai, China. 
+- *2022.09 - 2025.03 (expected)*, **M.Eng.**, School of Electronic Information and Electrical Engineering, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai, China. 
 - *2018.09 - 2022.06*, **B.Eng.**, School of Automation, [Central South University](https://en.csu.edu.cn/), Changsha, China. 
 
 {%# 💬 Invited Talks
