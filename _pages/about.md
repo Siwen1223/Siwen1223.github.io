@@ -55,9 +55,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.09 - 2025.03 (expected)*, **M.Eng.**, School of Electronic Information and Electrical Engineering, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai, China. 
 - *2018.09 - 2022.06*, **B.Eng.**, School of Automation, [Central South University](https://en.csu.edu.cn/), Changsha, China. 
 
-{%# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)%}
+{%# 💬 Invited Talks%}
+{%- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)%}
 
-{%# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.%}
+{%# 💻 Internships%}
+{%- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.%}
