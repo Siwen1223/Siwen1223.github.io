@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Siwen Yang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 123321"
+description              : #"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 123321"
 repository               : "Siwen1223/Siwen1223.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Siwen Yang"
   avatar           : "images/ysw1.jpg"
-  bio              : "Master student at Shanghai Jiao Tong University"
+  bio              : "Master student at Shanghai Jiao Tong University."
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
