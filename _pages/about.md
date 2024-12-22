@@ -43,9 +43,13 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-## Scholarships:
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+### Scholarships:
+- *2024.11*, First-Class Scholarship, Shanghai Jiao Tong University.
+- *2023.11*, First-Class Scholarship, Shanghai Jiao Tong University. 
+- *2023.10*, [Pan Wen-Yuan Scholarship](https://pan.itri.org.tw/awards/scholarship.aspx?nid=A229B5EC5952C71E#2021), Shanghai Jiao Tong University. 
+- *2022.11*, First-Class Scholarship, Shanghai Jiao Tong University.
+  ### Honors:
+- *2022.6*, Outstanding Graduate, Central South University.
 
 # 📖 Educations
 - *2022.09 - 2025.03 (expected)*, **M.Eng.**, School of Electronic Information and Electrical Engineering, [Shanghai Jiao Tong University](https://en.csu.edu.cn/), Shanghai, China. 
