@@ -44,8 +44,12 @@ My current research interests lie at the intersection of control, optimization, 
 <div style="display: inline-block;" class="badge">CVPR 2020</div> 
 [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C.
 
-<code class="language-plaintext highlighter-rouge">AAAI 2024</code>
+<code class="language-plaintext highlighter-rouge">CVPR 2020</code>
 [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C.
+
+<span style="display: inline-block; background-color: #007bff; color: white; padding: 0.2em 0.6em; font-size: 14px; font-weight: bold; margin-right: 10px;">CVPR 2020</span>
+[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C.
+
 
 <div style="display: flex; align-items: center;">
   <div class="badge" style="margin-right: 10px;">CVPR 2020</div>
