@@ -44,17 +44,10 @@ My current research interests lie at the intersection of control, optimization, 
 <div style="display: inline-block;" class="badge">CVPR 2020</div> 
 [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C.
 
-<div style="display: inline-block;" class="badge">CVPR 2020</div> 
-<a href="https://github.com">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet</a>, A, B, C.
-
-<div style="display: inline-block; margin-right: 10px;" class="badge">CVPR 2020</div>
-<a href="https://github.com">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet</a>, A, B, C.
-
-<div style="display: block;" class="badge">CVPR 2020</div>
-<a href="https://github.com">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet</a>, A, B, C.
-
-<div style="float: left; margin-right: 10px;" class="badge">CVPR 2020</div>
-<a href="https://github.com">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet</a>, A, B, C.
+<div style="display: flex; align-items: center;">
+  <div class="badge" style="margin-right: 10px;">CVPR 2020</div>
+  <a href="https://github.com">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet</a>, A, B, C.
+</div>
 
 
 # 🎖 Honors and Awards
