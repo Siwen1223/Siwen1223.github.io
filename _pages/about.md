@@ -53,6 +53,18 @@ My current research interests lie at the intersection of control, optimization, 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/MPC-MPF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Efficient Rolling-Horizon Approach for Cooperative Multi-Lane Platoon Formation With Undefined Configurations](https://ieeexplore.ieee.org/document/10709851), 
+
+**Siwen Yang**, Yunwen Xu, Ping Wang, and Dewei Li.
+
+**IEEE Transactions on Intelligent Transportation Systems**, IEEE TITS, 2024.
+- Proposed a multi-lane platoon formation scheme that coordinates the lane-changing decisions and longitudinal trajectories of CAVs to form platoons based on each vehicle's target lane, aiming to reduce the negative impact of lane-changing maneuvers on traffic flow and improve platoon formation efficiency. The platoon configurations and vehicles' motions are jointly optimizaed dynamically to enhance flexibility.
+</div>
+</div>
+
 <!--<span style="display: inline-block; background-color: #00369F; color: white; padding: 0.0em 1.2em; font-size: 12px; margin-right: 6px;">CVPR 2020</span>
 [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C.-->
 
