@@ -59,4 +59,4 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Experiences
-- *2022.12 - 2023.12*, Development of Heat Pump Controller and Thermal Comfort Algorithm for New Energy Vehicles, Collaborative Project between [SJTU-CSC Lab](http://csc-lab.com/index) and [Thermalnology Hi-Tech Company Co., Ltd.](http://www.thermalnology.com/), Shanghai, China.
+- *2022.12 - 2023.12*, Development of Heat Pump Controller and Thermal Comfort Algorithm for New Energy Vehicles, **Collaborative Project** between [SJTU-CSC Lab](http://csc-lab.com/index) and [Thermalnology Hi-Tech Company Co., Ltd.](http://www.thermalnology.com/), Shanghai, China.
