@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a master's student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the guidance of [Prof. Dewei Li](https://scholar.google.com/citations?user=mLSocOwAAAAJ&hl=en&oi=ao) and [Dr. Yunwen Xu](https://scholar.google.com/citations?user=7eLzr2sAAAAJ&hl=en&oi=ao) at [CSC Lab](http://csc-lab.com/index). 
 
-My current research interests lie at the intersection of control, optimization, and artificial intelligence, with their applications to *cooperative driving automation*, *traffic control* and *intelligent transportation systems*. 
+My current research interests lie at the intersection of control, optimization, and artificial intelligence, with their applications to *cooperative driving automation*, *traffic control* and *intelligent transportation systems*. If you share similar interests and have any interesting questions, feel free to email me 📬 at [siwenyang@sjtu.edu.cn](mailto:siwenyang@sjtu.edu.cn)!
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
