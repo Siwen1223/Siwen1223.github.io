@@ -16,8 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-I am currently a master's student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the guidance of [Prof. Dewei Li](https://scholar.google.com/citations?user=mLSocOwAAAAJ&hl=en&oi=ao) and [Dr. Yunwen Xu](https://scholar.google.com/citations?user=7eLzr2sAAAAJ&hl=en&oi=ao) at [CSC Lab](http://csc-lab.com/index). 
+# 👨‍🎓 About Me
+I am currently a master's student at [**Shanghai Jiao Tong University (SJTU)**](https://en.sjtu.edu.cn/), under the guidance of [Prof. Dewei Li](https://scholar.google.com/citations?user=mLSocOwAAAAJ&hl=en&oi=ao) and [Dr. Yunwen Xu](https://scholar.google.com/citations?user=7eLzr2sAAAAJ&hl=en&oi=ao) at [CSC Lab](http://csc-lab.com/index). 
 
 My current research interests lie at the intersection of control, optimization, and artificial intelligence, with their applications to *cooperative driving automation*, *traffic control* and *intelligent transportation systems*. If you share similar interests and have any interesting questions, feel free to email me 📬 at [siwenyang@sjtu.edu.cn](mailto:siwenyang@sjtu.edu.cn)!
 
@@ -41,7 +41,7 @@ My current research interests lie at the intersection of control, optimization, 
 </div>
 </div>
 
--<div class="badge">CVPR 2020</div> [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-<div><div class="badge">CVPR 2020</div></div> [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 ### Scholarships:
