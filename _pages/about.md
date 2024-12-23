@@ -58,9 +58,9 @@ My current research interests lie at the intersection of control, optimization, 
 
 [Trajectory Optimization for Multi-Lane Platoon Formation with Undefined Configurations](https://ieeexplore.ieee.org/document/10422641), 
 
-**Siwen Yang**, Yunwen Xu, Dewei Li, and Cheng Zhang.
+**Siwen Yang**, Yunwen Xu, Dewei Li, and Chen Zhang.
 
-**IEEE 26th International Conference on Intelligent Transportation Systems**, (ITSC 2023). | [**Slides**](https://drive.google.com/file/d/1_MdqCLhpxTC6DYeGvIBlNbbrKR710ODG/view?usp=drive_link)
+**IEEE 26th International Conference on Intelligent Transportation Systems** (ITSC 2023) | [**Slides**](https://drive.google.com/file/d/1_MdqCLhpxTC6DYeGvIBlNbbrKR710ODG/view?usp=drive_link)
 - Proposed a trajectory optimization method for platoon formation that assigns and regulates vehicles distributed across different lanes into platoons with undefined vehicular sequences, aiming to reduce vehicle delays and time consumption.
 </div>
 </div>
