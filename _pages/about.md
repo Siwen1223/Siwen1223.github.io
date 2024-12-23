@@ -41,7 +41,8 @@ My current research interests lie at the intersection of control, optimization, 
 </div>
 </div>
 
-<div style="float: left; margin-right: 40px;" class="badge">CVPR 2020</div> [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C.
+<div style="display: inline-block;" class="badge">CVPR 2020</div> 
+[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C.
 
 # 🎖 Honors and Awards
 ### Scholarships:
