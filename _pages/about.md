@@ -46,22 +46,22 @@ My current research interests lie at the intersection of control, optimization, 
 
 [An Efficient Rolling-Horizon Approach for Cooperative Multi-Lane Platoon Formation With Undefined Configurations](https://ieeexplore.ieee.org/document/10709851), 
 
-**Siwen Yang**, Yunwen Xu, Ping Wang, and Dewei Li.
+**Siwen Yang**, Yunwen Xu, Ping Wang, and Dewei Li. 
 
-**IEEE Transactions on Intelligent Transportation Systems**, IEEE TITS, 2024.
+**IEEE Transactions on Intelligent Transportation Systems**, (IEEE TITS), 2024.
 - Proposed a multi-lane platoon formation scheme that coordinates the lane-changing decisions and longitudinal trajectories of CAVs to form platoons based on each vehicle's target lane, aiming to reduce the negative impact of lane-changing maneuvers on traffic flow and improve platoon formation efficiency. The platoon configurations and vehicles' motions are jointly optimizaed dynamically to enhance flexibility.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/MPC-MPF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023</div><img src='images/itsc2023_presentation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Efficient Rolling-Horizon Approach for Cooperative Multi-Lane Platoon Formation With Undefined Configurations](https://ieeexplore.ieee.org/document/10709851), 
+[Trajectory Optimization for Multi-Lane Platoon Formation with Undefined Configurations](https://ieeexplore.ieee.org/document/10422641), 
 
-**Siwen Yang**, Yunwen Xu, Ping Wang, and Dewei Li.
+**Siwen Yang**, Yunwen Xu, Dewei Li, and Cheng Zhang.
 
-**IEEE Transactions on Intelligent Transportation Systems**, IEEE TITS, 2024.
-- Proposed a multi-lane platoon formation scheme that coordinates the lane-changing decisions and longitudinal trajectories of CAVs to form platoons based on each vehicle's target lane, aiming to reduce the negative impact of lane-changing maneuvers on traffic flow and improve platoon formation efficiency. The platoon configurations and vehicles' motions are jointly optimizaed dynamically to enhance flexibility.
+**IEEE 26th International Conference on Intelligent Transportation Systems**, (ITSC 2023). | [**Slides**](https://drive.google.com/file/d/1_MdqCLhpxTC6DYeGvIBlNbbrKR710ODG/view?usp=drive_link)
+- Proposed a trajectory optimization method for platoon formation that assigns and regulates vehicles distributed across different lanes into platoons with undefined vehicular sequences, aiming to reduce vehicle delays and time consumption.
 </div>
 </div>
 
