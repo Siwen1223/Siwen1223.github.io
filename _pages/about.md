@@ -41,6 +41,18 @@ My current research interests lie at the intersection of control, optimization, 
 </div>
 </div>-->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/VF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Valve Fleets: A Novel Control Method for Mixed Traffic Flow Regulation with Applications in Bottleneck Segments](https://siwen1223.github.io/), 
+
+**Siwen Yang**, Yunwen Xu, and Dewei Li. 
+
+(under review), 2024.
+- proposed a mixed traffic flow control structure, utilizing multi-lane fleets composed of a small portion of CAVs in mixed flow as mobile actuators. Multiple fleets formed within the mixed traffic flow feature a novel structure and a valve-like function that regulates both traffic volume and speed, referred to as "valve fleets", which are applied to decongest freeway bottlenecks.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/MPC-MPF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -87,4 +99,4 @@ My current research interests lie at the intersection of control, optimization, 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Experiences
-- *2022.12 - 2023.12*, "Development of Heat Pump Controller and Thermal Comfort Algorithm for New Energy Vehicles", **Collaborative Project** between [SJTU - CSC Lab](http://csc-lab.com/index) and [Thermalnology Hi-Tech Co., Ltd.](http://www.thermalnology.com/), Shanghai, China.
+- *2022.12 - 2023.12*, "Development of MPC-based Heat Pump Controller and Thermal Comfort Algorithm for New Energy Vehicles", **Collaborative Project** between [SJTU - CSC Lab](http://csc-lab.com/index) and [Thermalnology Hi-Tech Co., Ltd.](http://www.thermalnology.com/), Shanghai, China.
