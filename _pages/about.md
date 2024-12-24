@@ -41,7 +41,7 @@ My current research interests lie at the intersection of control, optimization, 
 </div>
 </div>-->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/VF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/VF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Valve Fleets: A Novel Control Method for Mixed Traffic Flow Regulation with Applications in Bottleneck Segments](https://siwen1223.github.io/), 
