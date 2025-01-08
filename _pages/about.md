@@ -25,7 +25,9 @@ My current research interests lie at the intersection of control, optimization, 
 
 
 # 🔥 News
+- *2025.01*: &nbsp; I have received the [2024 Theoretical Innovation Award](https://drive.google.com/file/d/1EhJjKccHYxAGgvtBB8RdmE9MKjYZrHlK/view?usp=drive_link) from [CSC LAB](https://english.csc-lab.com/en/). Thank you to my professors for their encouragement. 🥳
 - *2024.09*: &nbsp;🎉 My first-author paper has been accepted by IEEE-TITS.
+
 
 # 📝 Publications 
 
