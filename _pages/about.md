@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👨‍🎓 About Me
-I am currently a master's student at [**Shanghai Jiao Tong University (SJTU)**](https://en.sjtu.edu.cn/), under the guidance of [Prof. Dewei Li](https://scholar.google.com/citations?user=mLSocOwAAAAJ&hl=en&oi=ao) and [Dr. Yunwen Xu](https://scholar.google.com/citations?user=7eLzr2sAAAAJ&hl=en&oi=ao) at [CSC Lab](http://csc-lab.com/index). 
+I am currently a master's student at [**Shanghai Jiao Tong University (SJTU)**](https://en.sjtu.edu.cn/), under the guidance of [Prof. Dewei Li](https://scholar.google.com/citations?user=mLSocOwAAAAJ&hl=en&oi=ao) and [Dr. Yunwen Xu](https://scholar.google.com/citations?user=7eLzr2sAAAAJ&hl=en&oi=ao) at [CSC Lab](https://english.csc-lab.com/en/). 
 
 My current research interests lie at the intersection of control, optimization, and artificial intelligence, with their applications to *cooperative driving automation*, *traffic control* and *intelligent transportation systems*. If you share similar interests and have any interesting questions, feel free to email me 📬 at [siwenyang@sjtu.edu.cn](mailto:siwenyang@sjtu.edu.cn)!
 
