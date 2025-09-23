@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Siwen Yang"
-description              : "Master student at Shanghai Jiao Tong University."
+description              : "PhD student at Purdue University."
 repository               : "Siwen1223/Siwen1223.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,11 +24,11 @@ author:
   name             : "Siwen Yang"
   avatar           : "images/ysw1.jpg"
   bio              : "(杨思文)"
-  location         : "Shanghai, China"
+  location         : "West Lafayette, IN, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=PujMJuoAAAAJ"
-  email            : "siwenyang@sjtu.edu.cn"
+  email            : "yang3062@purdue.edu"
   researchgate     :  "https://www.researchgate.net/profile/Siwen-Yang-2"
   uri              :
   bitbucket        :
