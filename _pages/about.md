@@ -19,7 +19,7 @@ redirect_from:
 # 👨‍🎓 About Me
 I am currently pursuing my Ph.D. in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [**Purdue University**](https://www.purdue.edu/), under the supervision of [Prof. Lingxi Li](https://engineering.purdue.edu/ECE/People/Faculty/Indianapolis/ptProfile?resource_id=296655&group_id=87916) and [Prof. Satish Ukkusuri](https://umnilab.github.io/?_ga=2.262274188.1279605593.1758417719-1924412767.1752791020). Prior to this, I received my Master’s degree from [**Shanghai Jiao Tong University (SJTU)**](https://en.sjtu.edu.cn/), under the guidance of [Prof. Dewei Li](https://scholar.google.com/citations?user=mLSocOwAAAAJ&hl=en&oi=ao) and [Dr. Yunwen Xu](https://scholar.google.com/citations?user=7eLzr2sAAAAJ&hl=en&oi=ao) at [CSC Lab](https://english.csc-lab.com/en/). 
 
-My current research interests lie at the intersection of control, optimization, and learning, with their applications to *cooperative driving automation*, *traffic control* and *intelligent transportation systems*. If you share similar interests and have any interesting questions, feel free to email me 📬 at [siwenyang@sjtu.edu.cn](mailto:siwenyang@sjtu.edu.cn)!
+My current research interests lie at the intersection of control, optimization, and learning, with their applications to *cooperative driving automation*, *traffic control* and *intelligent transportation systems*. If you share similar interests and have any interesting questions, feel free to email me 📬 at [yang3062@purdue.edu](mailto:yang3062@purdue.edu)!
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
@@ -96,7 +96,7 @@ My current research interests lie at the intersection of control, optimization, 
 - *2022.04*, Outstanding Graduate, Central South University.
 
 # 📖 Educations
-- *2022.09 - 2025.03 (expected)*, **M.Eng. in Control Engineering**, *GPA: 3.95/4.0*, School of Electronic Information and Electrical Engineering, [**Shanghai Jiao Tong University**](https://en.sjtu.edu.cn/), Shanghai, China. 
+- *2022.09 - 2025.03*, **M.Eng. in Control Engineering**, *GPA: 3.95/4.0*, School of Electronic Information and Electrical Engineering, [**Shanghai Jiao Tong University**](https://en.sjtu.edu.cn/), Shanghai, China. 
 - *2018.09 - 2022.06*, **B.Eng. in Automation**, *GPA: 91.9/100*, School of Automation, [**Central South University**](https://en.csu.edu.cn/), Changsha, China. 
 
 <!--# 💬 Invited Talks
