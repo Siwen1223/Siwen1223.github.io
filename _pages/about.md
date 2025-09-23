@@ -17,16 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👨‍🎓 About Me
-I am currently a master's student at [**Shanghai Jiao Tong University (SJTU)**](https://en.sjtu.edu.cn/), under the guidance of [Prof. Dewei Li](https://scholar.google.com/citations?user=mLSocOwAAAAJ&hl=en&oi=ao) and [Dr. Yunwen Xu](https://scholar.google.com/citations?user=7eLzr2sAAAAJ&hl=en&oi=ao) at [CSC Lab](https://english.csc-lab.com/en/). 
+I am currently pursuing my Ph.D. in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [**Purdue University**](https://www.purdue.edu/), under the supervision of [Prof. Lingxi Li](https://engineering.purdue.edu/ECE/People/Faculty/Indianapolis/ptProfile?resource_id=296655&group_id=87916) and [Prof. Satish Ukkusuri](https://umnilab.github.io/?_ga=2.262274188.1279605593.1758417719-1924412767.1752791020). Prior to this, I received my Master’s degree from [**Shanghai Jiao Tong University (SJTU)**](https://en.sjtu.edu.cn/), under the guidance of [Prof. Dewei Li](https://scholar.google.com/citations?user=mLSocOwAAAAJ&hl=en&oi=ao) and [Dr. Yunwen Xu](https://scholar.google.com/citations?user=7eLzr2sAAAAJ&hl=en&oi=ao) at [CSC Lab](https://english.csc-lab.com/en/). 
 
-My current research interests lie at the intersection of control, optimization, and artificial intelligence, with their applications to *cooperative driving automation*, *traffic control* and *intelligent transportation systems*. If you share similar interests and have any interesting questions, feel free to email me 📬 at [siwenyang@sjtu.edu.cn](mailto:siwenyang@sjtu.edu.cn)!
+My current research interests lie at the intersection of control, optimization, and learning, with their applications to *cooperative driving automation*, *traffic control* and *intelligent transportation systems*. If you share similar interests and have any interesting questions, feel free to email me 📬 at [siwenyang@sjtu.edu.cn](mailto:siwenyang@sjtu.edu.cn)!
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉 My [first-author paper](https://ieeexplore.ieee.org/document/11175582) has been accepted by IEEE-TITS.
+- *2025.08*: &nbsp;🛫 Arrived in West Lafayette, IN — the Ph.D. journey begins!
 <!--*2025.01*: &nbsp; I have received the [2024 Theoretical Innovation Award](https://drive.google.com/file/d/1EhJjKccHYxAGgvtBB8RdmE9MKjYZrHlK/view?usp=drive_link) from [CSC Lab](https://english.csc-lab.com/en/). Thank you to my professors for their encouragement. 🥳-->
-- *2024.09*: &nbsp;🎉 My first-author paper has been accepted by IEEE-TITS.
+- *2024.09*: &nbsp;🎉 My [first-author paper](https://ieeexplore.ieee.org/document/10709851) has been accepted by IEEE-TITS.
 
 
 # 📝 Publications 
@@ -43,14 +45,14 @@ My current research interests lie at the intersection of control, optimization, 
 </div>
 </div>-->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/VF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/VF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Valve Fleets: A Novel Control Method for Mixed Traffic Flow Regulation with Applications in Bottleneck Segments](https://siwen1223.github.io/), 
+[Valve Fleets: A Novel Control Method for Mixed Traffic Flow Regulation with Applications in Bottleneck Segments](https://ieeexplore.ieee.org/document/11175582), 
 
 **Siwen Yang**, Yunwen Xu, and Dewei Li. 
 
-(under review), 2024.
+**IEEE Transactions on Intelligent Transportation Systems**, (IEEE TITS), 2025.
 - proposed a mixed traffic flow control structure, utilizing multi-lane fleets composed of a small portion of CAVs in mixed flow as mobile actuators. Multiple fleets formed within the mixed traffic flow feature a novel structure and a valve-like function that regulates both traffic volume and speed, referred to as "valve fleets", which are applied to decongest freeway bottlenecks.
 </div>
 </div>
