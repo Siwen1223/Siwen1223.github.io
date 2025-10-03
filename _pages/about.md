@@ -85,7 +85,7 @@ My current research interests lie at the intersection of control, optimization, 
 [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C.-->
 
 
-# 🎖 Honors and Awards
+<!--# 🎖 Honors and Awards
 ### Scholarships:
 - *2024.11*, First-Class Scholarship, Shanghai Jiao Tong University. 
 - *2023.11*, First-Class Scholarship, Shanghai Jiao Tong University. 
@@ -93,11 +93,11 @@ My current research interests lie at the intersection of control, optimization, 
 - *2022.11*, First-Class Scholarship, Shanghai Jiao Tong University. 
 ### Honors:
 - *2024.12*, Outstanding Graduate, Shanghai Jiao Tong University.
-- *2022.04*, Outstanding Graduate, Central South University.
+- *2022.04*, Outstanding Graduate, Central South University.-->
 
 # 📖 Educations
-- *2022.09 - 2025.03*, **M.Eng. in Control Engineering**, *GPA: 3.95/4.0*, School of Electronic Information and Electrical Engineering, [**Shanghai Jiao Tong University**](https://en.sjtu.edu.cn/), Shanghai, China. 
-- *2018.09 - 2022.06*, **B.Eng. in Automation**, *GPA: 91.9/100*, School of Automation, [**Central South University**](https://en.csu.edu.cn/), Changsha, China. 
+- *2022.09 - 2025.03*, **M.Eng. in Control Engineering**, <!--*GPA: 3.95/4.0*, -->School of Electronic Information and Electrical Engineering, [**Shanghai Jiao Tong University**](https://en.sjtu.edu.cn/), Shanghai, China. 
+- *2018.09 - 2022.06*, **B.Eng. in Automation**, <!--*GPA: 91.9/100*, -->School of Automation, [**Central South University**](https://en.csu.edu.cn/), Changsha, China. 
 
 <!--# 💬 Invited Talks
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
