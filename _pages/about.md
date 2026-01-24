@@ -103,4 +103,4 @@ My current research interests lie at the intersection of control, optimization, 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Experiences
-- *2022.10 - 2023.12*, "Development of MPC-based Heat Pump Controller and Thermal Comfort Algorithm for New Energy Vehicles", **Collaborative Project** between [SJTU - CSC Lab](http://csc-lab.com/index) and [Thermalnology Hi-Tech Co., Ltd.](http://www.thermalnology.com/), Shanghai, China.
+- *2022.10 - 2023.12*, "Development of MPC-based Heat Pump Controller and Thermal Comfort Algorithm for Electric Vehicles", **Collaborative Project** between [SJTU - CSC Lab](http://csc-lab.com/index) and [Thermalnology Hi-Tech Co., Ltd.](http://www.thermalnology.com/), Shanghai, China.
